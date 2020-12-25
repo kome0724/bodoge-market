@@ -1,0 +1,101 @@
+/* ----------------------------------------------------
+	FIRST COLORS
+------------------------------------------------------- */ 
+	
+	.blog-top p a,
+	.navbar-brand i,
+	.question-box span,
+	.navbar-default .navbar-brand:hover,
+	.navbar-default .navbar-brand:focus {
+		color: #e0901b;
+	}
+
+	blockquote,
+	.glass-case ul li.gc-active, .glass-case ul li.gc-active:hover,
+	.btn-white:hover,
+	.btn-white:focus,
+	.form-control:not([readonly]):focus {
+	  	border-color: #e0901b !important;
+	}
+	.buttons a,
+	.owl-custom .owl-controls .owl-nav [class*="owl-"],
+	.flex-control-paging li a,
+	.flex-caption,
+	.countbadge,
+	.btn-primary {
+		background-color: #e0901b;
+		border-color:#e0901b;
+	}
+
+/* ----------------------------------------------------
+	SECOND COLORS
+------------------------------------------------------- */ 
+
+	.pagination > li > a:hover,
+	.pagination > li > span:hover,
+	.pagination > li > a:focus,
+	.pagination > li > span:focus,
+	mark,
+	.service-box i,
+	.navbar-brand i,
+	.portfolio-item .visible-buttons a,
+	.visible-buttons a:hover,
+	.visible-buttons a:focus,
+	.owl-custom .owl-controls .owl-nav [class*=owl-]:hover,
+	.owl-custom .owl-controls .owl-nav [class*=owl-]:focus,
+	.flex-caption:hover,
+	.btn-primary:hover,
+	.btn-primary:focus {
+		background-color: #d1820f;
+		border-color:#d1820f;
+	}
+
+	.bg-second .msidebar h4,
+	.footer .general-title h2,
+	.shop-tabbed .nav-tabs > li > a:hover,
+	.shop-tabbed .nav-tabs > li > a:focus,
+	.common-height small,
+	.btn-white:hover,
+	.normalheader .breadcrumb > li + li::before,
+	.btn-white:focus,
+	.section-footer.bg-inverse .list-inline > li a:focus, 
+	.section-footer.bg-inverse .list-inline > li a:hover {
+		color:#d1820f;
+	}
+	.navbar-default .navbar-nav > li:hover > a,
+	.navbar-default .navbar-nav > li:focus > a,
+	.navbar-default .navbar-nav .dropdown-menu > li ,
+	.navbar-default .navbar-nav > .open > a, 
+	.navbar-default .navbar-nav > .open > a:hover, 
+	.navbar-default .navbar-nav > .open > a:focus {
+		color:#d1820f !important;
+	}
+/* ----------------------------------------------------
+	IMPORTANT BLACK
+------------------------------------------------------- */ 
+	.gc-icon,
+	.service-box:hover i,
+		.visible-buttons a,
+	.custom-magnifier,
+	p.drop-caps.full:first-child::first-letter,
+	.sidebar-header,
+	.btn-default {
+		background-color: #171717;
+		border-color:#171717;
+	}
+
+	.btn-default:focus,
+	.btn-default:hover {
+		background-color: #171717;
+		border-color:#171717;
+	}
+	.topbar,
+	.topbar .btn-default {
+		background-color: #171717 !important;
+		border-color:#171717 !important;
+	}
+	.topbar.dark-topbar .btn-default,
+	.topbar.dark-topbar {
+		background-color: #d1820f !important;
+		border-color:#d1820f !important;
+	}

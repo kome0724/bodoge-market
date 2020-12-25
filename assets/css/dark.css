@@ -1,0 +1,136 @@
+/* ----------------------------------------------------
+	DARK COLOR SCHEMES
+------------------------------------------------------- */ 
+	.btn-white {
+		border-color: #333;
+	}
+	.footer p,
+	p.drop-caps:first-child::first-letter,
+	.blog_categories ul li a,
+	.readmore,
+	.footer li,
+	.footer a,
+	.payment-methods i:hover, .footer a,
+	.dropdown-menu .table small,
+	.check li::before,
+	.payment-methods i,
+	.section-footer small,
+	.owl-custom .owl-controls .owl-nav [class*="owl-"],
+	.shopmeta span,
+	body {
+		color:#838383;
+	}
+	.size-list a,
+	.wan-spinner .minus, .wan-spinner .plus,
+	.nav-tabs > li a:hover, .nav-tabs > li a:focus, .nav-tabs > li.active > a, .nav-tabs > li.active > a:hover, .nav-tabs > li.active > a:focus,
+	.pagination > li > a, .pagination > li > span,
+	.btn-white,
+	.statwrap small,
+	.shop-tabbed .nav-tabs > li > a,
+	.menu > ul > li > a,
+	.menu, .menu a,
+	.form-horizontal a,
+	.panel-info > .panel-heading,
+	.closeme .fa-close,
+	.section-footer.bg-white h3, 
+	.section-footer.bg-white a, 
+	.section-footer.bg-white,
+	.media-heading,
+	h1 a, h2 a, h3 a, h4 a, h5 a, h6 a,
+	h1, h2, h3, h4, h5, h6,
+	.topbar .btn-default,
+	.topbar h4, .topbar a, .topbar p,
+	.navbar-default .navbar-nav > li a,
+	.navbar-default .navbar-nav > li:hover > a, 
+	.navbar-default .navbar-nav > li:focus > a, 
+	.navbar-default .navbar-nav .dropdown-menu > li, 
+	.navbar-default .navbar-nav > .open > a, 
+	.navbar-default .navbar-nav > .open > a:hover, 
+	.navbar-default .navbar-nav > .open > a:focus,
+	#sidebar-fix .logo a, 
+	.sidebar-header a, 
+	.navbar-default .navbar-brand {
+		color:#ffffff !important;
+	}
+	#sidebar-fix,
+	.msidebar,
+	.dropdown-menu > li:hover > a, 
+	.dropdown-menu > .active > a, 
+	.dropdown-menu > .active > a:hover, 
+	.dropdown-menu > .active > a:focus,
+	.navbar-default .dropdown-menu,
+	.navbar-default .dropdown-menu li,
+	.navbar-default .navbar-nav > .open > a, 
+	.navbar-default .navbar-nav > .open > a:hover, 
+	.navbar-default .navbar-nav > .open > a:focus,
+	.topbar .dropdown-menu,
+	.topbar .dropdown-menu li a,
+	.topbar .btn-group .dropdown-menu,
+	.form-control,
+	.infobox,
+	.topbar .btn-default,
+	.bg-white,
+	.footer,
+	body.comingsoon,
+	.header,
+	.topbar,
+	.navbar-default,
+	.section.white {
+		background:#121212 !important;
+		background-color:#121212 !important;
+	}
+	.wan-spinner input,
+	.wan-spinner .minus, .wan-spinner .plus,
+	.nav-tabs > li a:hover, .nav-tabs > li a:focus, .nav-tabs > li.active > a, .nav-tabs > li.active > a:hover, .nav-tabs > li.active > a:focus,
+	.tab-content > .tab-pane,
+	.nav-tabs > li > a,
+	.shop-top-title,
+	.pagination > li > a, .pagination > li > span,
+	#sidebar-fix,
+	.common-height hr,
+	.table tr,
+	.panel-info > .panel-heading,
+	.msidebar,
+	.yamm hr,
+	.topbar hr,
+	.form-control,
+	.size-list a,
+	.topbar .dropdown-menu,
+	.grupitems .select-qty,
+	.panel-info,
+	.form-horizontal hr,
+	.border-top,
+	.blog-sitewide .blog-item,
+	.service-box,
+	.infobox,
+	.navbar-collapse {
+		border-color:#333 !important;
+	}
+	.product-filter,
+	.footer-title h3,
+	.menu > ul > li,
+	.topbar {
+		border-bottom-color:#333;
+	}
+	.grey {
+		background-color: #212121 !important;
+	}
+	.normalheader,
+	.media-element blockquote,
+	.reply-comment,
+	.panel-info > .panel-heading,
+	.size-list a,
+	.owl-custom .owl-controls .owl-nav [class*="owl-"] {
+		background-color: #333 !important
+	}
+	.demo_changer .demo-icon i,
+	.slides h3 {
+		color:#121212 !important;
+	}
+	.demo_changer .demo-icon {
+		background-color: #fff;
+	}
+
+	.demo_changer .btn{
+		color:#121212 !important;
+	}
