@@ -1,3 +1,8 @@
+// /plugins/bootstrap.js
+if (process.BROWSER_BUILD) {
+	require("bootstrap");
+}
+
 /* ========================================================================
  * Bootstrap: transition.js v3.3.1
  * http://getbootstrap.com/javascript/#transitions

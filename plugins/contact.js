@@ -7,7 +7,7 @@ jQuery(document).ready(function(){
 		$("#message").slideUp(750,function() {
 		$('#message').hide();
 
- 		$('#submit')
+    $('#submit')
 			.after('<img src="images/loading.gif" class="loader" />')
 			.attr('disabled','disabled');
 
