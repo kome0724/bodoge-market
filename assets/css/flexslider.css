@@ -154,7 +154,7 @@ html[xmlns] .slides {display: block;}
 
 /* columns common style */
 .flexslider .desc span.title{
-	background:url(../images/slider-text-background.png);
+	background:url(/images/slider-text-background.png);
 	font-size:24px;
 	line-height:100%;
 	margin:0 0 10px 0;
@@ -176,7 +176,7 @@ html[xmlns] .slides {display: block;}
 .flexslider .desc span.text{
 	padding:5px;
 	font-size:14px;
-	background:url(../images/slider-text-background.png);
+	background:url(/images/slider-text-background.png);
 	text-decoration:none;
 	color:#fff;
 	display:block;

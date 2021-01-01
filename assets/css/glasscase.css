@@ -470,7 +470,7 @@
     height: 31px;
     margin-left: -15px;
     margin-top: -15px;
-    background-image: url(../images/loader.gif);
+    background-image: url(/images/loader.gif);
 }
 
 .gc-loading3 {
